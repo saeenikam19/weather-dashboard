@@ -2,7 +2,7 @@
 
 This project fetches real-time weather forecast data using the **OpenWeatherMap API** and visualizes **temperature and humidity** using **Matplotlib** in a clean, side-by-side dashboard.
 
-## 📌 Features
+## Features
 - Fetches 5-day weather forecast data
 - Displays **Temperature Forecast**
 - Displays **Humidity Forecast**
@@ -11,25 +11,28 @@ This project fetches real-time weather forecast data using the **OpenWeatherMap 
 - Clean and readable x-axis (date only)
 
 
-## 🛠 Technologies Used
+## Technologies Used
 - Python
 - Requests (API integration)
 - Matplotlib (Data Visualization)
 - OpenWeatherMap API
 
 
-## 📂 Project Structure
+## Project Structure
 weather-dashboard/
 │
 ├── OpenWeather.py
 ├── README.md
 
 
-## 🚀 How It Works
+## How It Works
 1. Fetches weather forecast data from OpenWeatherMap API
 2. Extracts temperature, humidity, and date information
 3. Displays the data using Matplotlib subplots
 4. Shows temperature and humidity graphs side by side
+
+## Digram 
+<img width="1920" height="1020" alt="image" src="https://github.com/user-attachments/assets/29024567-4b76-4fed-8b6f-1df9294131c1" />
 
 
 
