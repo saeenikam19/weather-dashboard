@@ -31,7 +31,7 @@ weather-dashboard/
 3. Displays the data using Matplotlib subplots
 4. Shows temperature and humidity graphs side by side
 
-## Digram 
+## Diagram
 <img width="1920" height="1020" alt="image" src="https://github.com/user-attachments/assets/29024567-4b76-4fed-8b6f-1df9294131c1" />
 
 
