@@ -21,7 +21,7 @@ This project fetches real-time weather forecast data using the **OpenWeatherMap 
 ## 📂 Project Structure
 weather-dashboard/
 │
-├── weather_dashboard.py
+├── OpenWeather.py
 ├── README.md
 
 
