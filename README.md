@@ -1,9 +1,14 @@
 ## API INTEGRATION AND DATA VISUALIZATION
 Candidate Name: Saee Santosh Nikam
+
 Selected For: Python Programming
+
 Organization: Codtech IT Solutions Private Limited
+
 Duration: 6 Weeks
+
 Internship Period: 07 January 2026 - 18 February 2026
+
 Intern ID: CTIS1452
 
 # 🌦 Weather Forecast Dashboard (Python)
